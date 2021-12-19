@@ -1,0 +1,33 @@
+@media only screen and (max-width: 450px) {
+    .container {
+        width: 1500px;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    .header .container .head-main .logo a {
+        font-size: 19px;
+    }
+
+    .header .container .head-main .logo a i {
+        font-size: 20px;
+    }
+    
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 1500px;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+
+    .header .container .head-main .logo a {
+        font-size: 25px;
+    }
+
+    .header .container .head-main .logo a i {
+        font-size: 20px;
+    }
+
+}
